@@ -3,7 +3,7 @@
 ## About The Project 📖
 Welcome to the "Project: Personal Blog Website" - a creation from my journey as a student in the Front End Web Developer course by Udacity.
 
-## How To Run 🏃‍♂️
+## How To Run 🔧
 To run this project on your local machine, follow these steps.
 
 ### Prerequisites 📋
