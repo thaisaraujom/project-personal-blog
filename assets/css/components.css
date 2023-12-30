@@ -89,6 +89,11 @@
   color: #5f99d6;
 }
 
+.newsletter-form form {
+  display: flex; 
+  align-items: center;
+}
+
 .newsletter-form input[type="email"] {
   padding: 10px;
   margin-right: 10px;
