@@ -10,7 +10,7 @@ To run this project on your local machine, follow these steps.
 - A modern web browser.
 - Basic knowledge of HTML and CSS.
 
-### How To Run 🚀
+### Running the Project 🏃‍♂️
 1. Clone the repository:
     ```bash
     git clone https://github.com/thaisaraujom/project-personal-blog.git
